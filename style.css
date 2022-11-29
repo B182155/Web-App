@@ -50,6 +50,7 @@ input{
     border: none;
     border-bottom: 4px solid blue;
     border-radius: 5px;
+    max-width:80vw;
 }
 button{
     font-size: 3rem;
